@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Idalv97
 - 👀 I’m interested in art and science
 - 🌱 I’m currently learning CS50's introduction to computier science
-- 💞️ I’m looking to collaborate on whatever
+- 💞️ I’m looking to collaborate on anything necessary
 - 📫 How to reach me email: idunnalvarez@gmail.com
 
 <!---
